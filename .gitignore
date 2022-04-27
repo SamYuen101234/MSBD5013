@@ -3,3 +3,9 @@ project1/.ipynb_checkpoints/
 project1/input/
 project1/kaggle_simple/
 project1/dev/
+project2/LGBM/.ipynb_checkpoints/
+project2/LGBM/data/
+project2/LGBM/models*
+project2/LGBM/results/
+project2/LGBM/grid*
+project2/LGBM/processed*
